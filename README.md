@@ -52,7 +52,7 @@ python inference.py
 ## Citation
 If you use this code for your research, please cite our paper
 ```
-@article{lou2024trusted,
+@article{lou2025trusted,
   title={Trusted Video Inpainting Localization via Deep Attentive Noise Learning},
   author={Lou, Zijie and Cao, Gang and Guo, Kun and Yu, Lifang and Weng, Shaowei},
   journal={IEEE Transactions on Dependable and Secure Computing},
