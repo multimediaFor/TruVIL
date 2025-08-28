@@ -54,7 +54,7 @@ If you use this code for your research, please cite our paper
 ```
 @article{lou2025trusted,
   title={Trusted Video Inpainting Localization via Deep Attentive Noise Learning},
-  author={Lou, Zijie and Cao, Gang and Guo, Kun and Yu, Lifang and Weng, Shaowei},
+  author={Lou, Zijie and Cao, Gang and Lin, Man and Yu, Lifang and Weng, Shaowei},
   journal={IEEE Transactions on Dependable and Secure Computing},
   year={2025},
   publisher={IEEE}
